@@ -18,10 +18,8 @@
 
  <tr><th>Number</th><th>Letter</th></tr>
 
- <tr><td>26</td><td>&#26;</td></tr><tr><td>65</td><td>&#65;</td></tr>
-
- <tr><td>48</td><td>&#48;</td></tr><tr><td>65</td><td>&#65;</td></tr>
-
+ <tr><td>26</td><td>&#26;<tr><td>72</td><td>&#72;</td></tr>
+ <tr><td>48</td><td>&#48;<tr><td>72</td><td>&#72;</td></tr>
  <tr><td>65</td><td>&#65;</td></tr><tr><td>65</td><td>&#65;</td></tr>
 
  </table>
